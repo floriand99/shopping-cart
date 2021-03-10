@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Lenovo Yoga 6",
+      "image": "https://images.unsplash.com/photo-1559163499-413811fb2344?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTF8fGxhcHRvcHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 200,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "title": "Iphone X",
+      "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvbmV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 320,
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "title": "Coffee",
+      "image": "https://images.unsplash.com/photo-1522992319-0365e5f11656?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29mZmVlfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 2,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "title": "Makeup tools",
+      "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bWFrZXVwfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 42,
+      "rating": 3
+    },
+    {
+      "id": 5,
+      "title": "Rolex watch",
+      "image": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8d2F0Y2h8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 244,
+      "rating": 5
+    },
+    {
+      "id": 6,
+      "title": "Smart watch",
+      "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8d2F0Y2h8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 85,
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "title": "Sneakers",
+      "image": "https://images.unsplash.com/photo-1535595278992-7d1e59b30194?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTB8fHNuZWFrZXJ8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 70,
+      "rating": 5
+    },
+    {
+      "id": 8,
+      "title": "Suit",
+      "image": "https://images.unsplash.com/photo-1491336477066-31156b5e4f35?ixid=MXwxMjA3fDB8MHxzZWFyY2h8Mnx8c3VpdHxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 124,
+      "rating": 3
+    },
+    {
+      "id": 9,
+      "title": "Sunglasses",
+      "image": "https://images.unsplash.com/photo-1577803645773-f96470509666?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8c3VuZ2xhc3Nlc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60",
+      "price": 5,
+      "rating": 3
+    }
+  ]
+}
